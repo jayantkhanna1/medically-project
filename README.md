@@ -15,7 +15,7 @@ When you open the website at top you will have nav bar with following options:<b
 - Contact us (Here you can contact with me by sending me mail)
 - Staff Login (Here you can login to my site and explore more features)
 <br>
-<br>
+<hr>
 
 - Next notable feature on my site is add comment press on persons pic to view their comment you can also add your own comment
 - You can also book an appointment from this page and se it on login page
