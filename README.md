@@ -17,8 +17,8 @@ When you open the website at top you will have nav bar with following options:<b
 <br>
 <hr>
 
-- Next notable feature on my site is add comment press on persons pic to view their comment you can also add your own comment
-- You can also book an appointment from this page and se it on login page
+- Next notable feature on Home page is 'Comments section' press on persons pic to view their comment you can also add your own comment
+- You can also book an appointment from this page and see it on login page
 - Rest all, is just front end work to make site look presentatble
 
 ## About us page
@@ -37,8 +37,27 @@ When you open the website at top you will have nav bar with following options:<b
 - This is where magic happens
 - First two paras on the page explain how to login as a doctor or as a staff member
 - Simply press on autofill to fill in details in login tab 
-- Press login (if username or password are incorrect you willbe alerted)
+- Press login (if username or password are incorrect you will be alerted)
+- Toggle between login as staff and doctor to login respectively
 - Although forgot password works it wont work there as gmail id used are not real 
  ### Forgot password section:
- - First you will be sent otp on your mail if you are an authorized member
  - You can try it by logging in as doctor then adding a staff member with your own id and all passwords are hashed so there would be no security breach regarding your password
+ - First you will be sent otp on your mail if you are an authorized member
+ - After you enter otp site will ask you to type in new password 
+ - After that you can login with that new password
+
+## Staff login  
+- After you login as a default staff member you will see a list of demo patients and your own name if you booked appointment earlier
+- You can use Searchbar to search amongst appointments
+- You can also add appointment here
+- However remove and edit appointment have been disabled in demo user for security purposes. To use them you can contact me via email and i will provide you credentials for super user for both staff and doctor panel
+- Option to log out has also been provided
+
+## Doctor login  
+- After you login as a default Doctor you will see option to toggle between staff and appointment list 
+- On appointment list you will demo patients and your own name if you booked appointment earlier
+- On staff list you will see all staff members
+- You can use Searchbar to search amongst appointments and staff member
+- You can also add appointment and new staff members here but those staff members also wont have option to edit or delete data
+- To edit or delete data contact me i will provide you with credentials to Super doctor and staff data
+- Option to log out has also been provided
